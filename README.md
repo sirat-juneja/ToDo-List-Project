@@ -1,8 +1,12 @@
 # Multi-User To-Do Dashboard
 A desktop-based ToDo Dashboard built using Java Swing for the user interface and JDBC for database connectivity. This project allows multiple users to securely log in, manage personal tasks, and store them persistently in a MySQL database.
 
-🔧 Features
+🔧 Features:
 
-User Authentication: Login and signup system with password validation.
+-> User Authentication: Sign up and log in with password validation and user authentication.
 
-Task Management: Add, view, and manage personalized to-do items.
+-> Personalized To-Do Lists: Each user maintains a separate task list after logging in.
+
+-> Database Connectivity: Tasks and user data are stored persistently using JDBC with MySQL.
+
+-> Intuitive GUI: Java Swing interface with responsive design and user-friendly layout.
