@@ -1,2 +1,2 @@
-# ToDo-List-Project
-ToDo List project using java core, java swing and java database connectivity
+# Multi-User To-Do Dashboard
+Multi-User To-Do Dashboard using Java Swing and JDBC.
